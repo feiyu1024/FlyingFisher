@@ -1,4 +1,3 @@
 # FlyingFisher
-It Just a fishman
-/n;
+It Just a fishman.
 This is just a test
